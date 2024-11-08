@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chocolate</h1>
 <h3 align="center">A fullstack web developer from Iran.</h3>
+<h3 align="center">I lost my previous account :( (chocolatefr).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chocolateisfr&label=Profile%20views&color=0e75b6&style=flat" alt="chocolateisfr" /> </p>
 
