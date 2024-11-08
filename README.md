@@ -27,30 +27,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">Bash
-C
-CSS3
-Django
-Express.js
-Flask
-Git
-GTK
-HTML5
-JavaScript
-MariaDB
-MongoDB
-MySQL
-Nginx
-Node.js
-PostgreSQL
-Python
-Qt
-React
-Redis
-Selenium
-SQLite
-Tailwind CSS
-TensorFlow
-TypeScript
+C/
+CSS3/
+Django/
+Express.js/
+Flask/
+Git/
+GTK/
+HTML5/
+JavaScript/
+MariaDB/
+MongoDB/
+MySQL/
+Nginx/
+Node.js/
+PostgreSQL/
+Python/
+Qt/
+React/
+Redis/
+Selenium/
+SQLite/
+Tailwind/
+TensorFlow/
+TypeScript/
 Vue.js</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chocolateisfr&show_icons=true&locale=en&layout=compact" alt="chocolateisfr" /></p>
